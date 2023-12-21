@@ -21,7 +21,8 @@ public class ReverseStr {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//reverseString("Manoj");
+		
+		reverseString("Manoj");
 		
 		reverseString("");
 

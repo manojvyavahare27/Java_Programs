@@ -19,7 +19,7 @@ public class ArrayDefineTypes {
 		ArrayList<Integer> numList=new ArrayList<>();
 		numList.add(10);
 		numList.add(20);
-		numList.add(30);
+		numList.add(30);	
 		numList.add(40);
 		numList.add(50);
 		System.out.println(numList);
