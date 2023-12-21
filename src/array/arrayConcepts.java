@@ -23,7 +23,6 @@ public class arrayConcepts {
 		}
 
 		// String
-
 		String s[] = new String[4];
 		s[0] = "Manoj";
 		s[1] = "computer";
